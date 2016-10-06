@@ -1,0 +1,16 @@
+/node_modules
+/typings
+
+*.ts
+!/*.d.ts
+!/app/*.d.ts
+
+/index.html
+/favicon.ico
+/tsconfig.json
+/webpack.config.js
+/typings.json
+
+/.idea
+/.vscode
+
