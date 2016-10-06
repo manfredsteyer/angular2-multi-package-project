@@ -1,4 +1,4 @@
-# External Feature-Modules
+# External Feature Modules for Angular 2 Applications
 
 This sample shows how to split a huge Angular 2 application into a core application and an external node package that contain feature modules. The external node packages can be developed, executed and tested separately.
 
