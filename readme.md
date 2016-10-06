@@ -10,4 +10,4 @@ Please note the following aspects:
 - The external packages uses Angular as *dev-dependencies* and mentions some of them as *peer-dependencies*. This prevents that the package comes with a specific version of Angular. 
 - The external package uses a ``.npmignore`` file
 - The core application references the external module via the file ``package.json`` using ``file:../module``.
-- After updating the external package one has to update the version number in the file ``package.json``. After that, one has to execute ``npm update`` within the core application.
+- After updating the external package, one has to update the version number in the file ``package.json``. After that, one has to execute ``npm update`` within the core application.
